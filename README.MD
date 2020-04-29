@@ -1,12 +1,11 @@
 # Financial Transaction
 
-In this first part, I create the structures and patterns of the project configurations such as
-- ESLint
-- Prettier
-- Debug
-- Typescript.
+In this first part, I create the structures and patterns of the project.
 
 In this module, I also started the Software Architecture creating Models, Repositories,and Services using the SOLID design pattern.
+
+## 🖥 What I learned
+Node.js | ESLint | Prettier | Debug | Typescript
 
 ## Instructions
 
@@ -24,12 +23,11 @@ Once you've got Node installed:
 * `yarn` to install dependencies
 * `yarn dev:server` to start the project
 * `yarn test` to start the tests
-* Check out the repo to see the git history: `https://github.com/Igorth/financial-transaction`
 
 
-## Authors
+## Author
 
-* **Igor Dias** - *Initial work*
+* [**Igor Dias**](https://www.linkedin.com/in/igordiasth/)
 
 
 ## License
